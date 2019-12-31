@@ -1,4 +1,4 @@
-package cn.itheima.pojo;
+package org.coolbird.entity;
 
 public class ProductModel {
 	// 商品编号，不能和UUID混淆

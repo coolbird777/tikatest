@@ -1,4 +1,4 @@
-package cn.itheima.pojo;
+package org.coolbird.entity;
 
 import java.util.List;
 
