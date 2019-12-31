@@ -1,7 +1,7 @@
 package cn.itheima.pojo;
 
 public class ProductModel {
-	// 商品编号
+	// 商品编号，不能和UUID混淆
 	private String pid;
 	// 商品名称
 	private String name;
