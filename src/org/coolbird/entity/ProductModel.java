@@ -9,7 +9,7 @@ public class ProductModel {
 	private String catalog_name;
 	// 价格
 	private float price;
-	// 商品描述
+	// 商品描述,不进行solr保存
 	private String description;
 	// 图片名称
 	private String picture;
